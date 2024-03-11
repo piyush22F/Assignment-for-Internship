@@ -122,7 +122,7 @@ nav > img {
   height: 400px;
   overflow: hidden;
   position: relative;
-  background-image: url("../images/bg img22.jpeg");
+  background-image: url("./images/bg img22.jpeg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
