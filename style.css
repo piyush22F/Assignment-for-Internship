@@ -311,7 +311,7 @@ nav > img {
   border-radius: 20px;
   max-width: 590px;
   height: 100%;
-  background-image: url("/images/bg blue.jpeg");
+  background-image: linear-gradient(to top right, #79cdff, #2c22b4);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
